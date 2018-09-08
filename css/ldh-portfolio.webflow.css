@@ -1094,6 +1094,9 @@ p {
     padding-bottom: 20rem;
     padding-left: 3.5rem;
   }
+  .about-wrapper__img {
+    width: 380px;
+  }
   .work-wrapper {
     min-height: 90vh;
     padding-right: 3.5rem;
@@ -1346,6 +1349,9 @@ p {
   .about-wrapper {
     padding-right: 1rem;
     padding-left: 1rem;
+  }
+  .about-wrapper__img {
+    width: 330px;
   }
   .work-wrapper {
     padding-right: 1rem;
