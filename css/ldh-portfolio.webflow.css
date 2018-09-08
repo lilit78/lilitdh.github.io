@@ -1030,6 +1030,12 @@ p {
     padding-right: 3.5rem;
     padding-left: 3.5rem;
   }
+  .section-wrapper__img {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
   .hero-wrapper {
     min-height: 90vh;
     padding-right: 3.5rem;
@@ -1039,7 +1045,11 @@ p {
   .hero-section-wrapper__img {
     width: 530px;
   }
+  .section__floating-image3 {
+    left: 20px;
+  }
   .section-wrapper.is--gray {
+    min-height: auto;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -1047,13 +1057,15 @@ p {
     flex-direction: column;
   }
   .section-wrapper.is--reverse {
+    min-height: auto;
     -webkit-box-orient: vertical;
-    -webkit-box-direction: reverse;
-    -webkit-flex-direction: column-reverse;
-    -ms-flex-direction: column-reverse;
-    flex-direction: column-reverse;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
   .section-wrapper.is--dark-gray {
+    min-height: auto;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -1061,11 +1073,15 @@ p {
     flex-direction: column;
   }
   .section-wrapper.is--white {
+    min-height: auto;
     -webkit-box-orient: vertical;
-    -webkit-box-direction: reverse;
-    -webkit-flex-direction: column-reverse;
-    -ms-flex-direction: column-reverse;
-    flex-direction: column-reverse;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .section__floating-image2 {
+    right: 0px;
   }
   .section__floating-image1 {
     left: 280px;
@@ -1170,6 +1186,17 @@ p {
     font-size: 40px;
     line-height: 40px;
   }
+  .nav__icn.w--open {
+    background-color: transparent;
+    color: #53616e;
+  }
+  .nav__link-item {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    color: #f3f7f9;
+    font-size: 16px;
+    text-align: center;
+  }
   .hero-wrapper {
     min-height: 100vh;
     padding-bottom: 11rem;
@@ -1179,11 +1206,13 @@ p {
   }
   .section__floating-image4 {
     bottom: -85px;
+    display: none;
     width: 120px;
   }
   .section__floating-image3 {
     left: 25px;
     bottom: -64px;
+    display: none;
     width: 160px;
   }
   .nav {
@@ -1197,6 +1226,7 @@ p {
     align-items: center;
   }
   .section__floating-image2 {
+    display: none;
     width: 200px;
   }
   .section__floating-image1 {
@@ -1211,6 +1241,11 @@ p {
   .work-wrapper {
     min-height: 100vh;
     padding-bottom: 11rem;
+  }
+  .nav-menu {
+    height: 100vh;
+    margin-top: 20px;
+    background-color: #333e48;
   }
 }
 
