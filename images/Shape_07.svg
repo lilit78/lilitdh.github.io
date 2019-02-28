@@ -1,0 +1,42 @@
+<svg id="Group_65" data-name="Group 65" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398.363" height="469.772" viewBox="0 0 398.363 469.772">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6916b"/>
+      <stop offset="1" stop-color="#fdba61"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdba61"/>
+      <stop offset="1" stop-color="#f66b96"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e9ca8"/>
+      <stop offset="1" stop-color="#333e48"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#97d9eb"/>
+      <stop offset="1" stop-color="#00c1c1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8e5e2"/>
+      <stop offset="1" stop-color="#8e9ca8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#65deff"/>
+      <stop offset="1" stop-color="#00b9b2"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="123.538" cy="123.538" rx="123.538" ry="123.538" transform="translate(223.655 469.773) rotate(-135)" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_20" data-name="Rectangle 20" width="106.144" height="246.145" rx="53.072" transform="translate(0 247) rotate(-45)" fill="url(#linear-gradient-2)"/>
+  <path id="Rectangle_12" data-name="Rectangle 12" d="M96.442,0h60.03A104.314,104.314,0,0,1,260.786,104.314v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V96.442A96.442,96.442,0,0,1,96.442,0Z" transform="translate(29.281 276.282) rotate(-45)" fill="url(#linear-gradient-3)"/>
+  <path id="Rectangle_18" data-name="Rectangle 18" d="M0,0H42.726a111,111,0,0,1,111,111v46.387a0,0,0,0,1,0,0H111a111,111,0,0,1-111-111V0A0,0,0,0,1,0,0Z" transform="translate(121.159 108.701) rotate(-45)" fill="url(#linear-gradient-4)"/>
+  <path id="Rectangle_13" data-name="Rectangle 13" d="M96.745,0H202.472a96.745,96.745,0,0,1,96.745,96.745v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A96.745,96.745,0,0,1,96.745,0Z" transform="translate(62.456 253.812) rotate(-45)" fill="url(#linear-gradient-5)"/>
+  <ellipse id="Ellipse_14" data-name="Ellipse 14" cx="85.106" cy="85.106" rx="85.106" ry="85.106" transform="translate(223.655 415.422) rotate(-135)" fill="url(#linear-gradient-6)"/>
+  <rect id="Rectangle_14" data-name="Rectangle 14" width="150.981" height="196.23" rx="10" transform="translate(50.319 153.993) rotate(-45)" fill="url(#linear-gradient-2)"/>
+  <path id="Rectangle_19" data-name="Rectangle 19" d="M0,0H34.523a94.249,94.249,0,0,1,94.249,94.249v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(256.565 147.052) rotate(45)" fill="url(#linear-gradient-3)"/>
+  <line id="Line_3" data-name="Line 3" x1="206.375" y1="190.575" transform="translate(130.918 163.097)" fill="none" stroke="#97d9eb" stroke-width="5"/>
+  <rect id="Rectangle_16" data-name="Rectangle 16" width="123.53" height="123.53" rx="9" transform="translate(36.179 100.646) rotate(-45)" fill="url(#linear-gradient-3)"/>
+  <path id="Union_5" data-name="Union 5" d="M-169.921,1022.748a57.974,57.974,0,0,1,0-81.988,57.783,57.783,0,0,1,19.536-12.879l-86.459-86.459a9,9,0,0,1,0-12.728l12.159-12.159a9,9,0,0,1,12.728,0L-85.284,943.208a8.984,8.984,0,0,1,1.763,2.491,57.985,57.985,0,0,1-4.411,77.049,57.793,57.793,0,0,1-40.994,16.98A57.793,57.793,0,0,1-169.921,1022.748Z" transform="translate(342.693 -742.618)" fill="url(#linear-gradient)"/>
+  <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="21.508" cy="21.508" rx="21.508" ry="21.508" transform="translate(191.72 360.24) rotate(-90)" fill="#fff"/>
+  <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="21.508" cy="21.508" rx="21.508" ry="21.508" transform="translate(191.72 264.087) rotate(-90)" fill="#fff"/>
+  <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="21.508" cy="21.508" rx="21.508" ry="21.508" transform="translate(191.72 312.164) rotate(-90)" fill="#fff"/>
+</svg>
