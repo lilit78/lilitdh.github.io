@@ -10,6 +10,10 @@
   grid-column-gap: 16px;
 }
 
+.w-form-formrecaptcha {
+  margin-bottom: 8px;
+}
+
 body {
   background-color: #f3f7f9;
   font-family: 'Work Sans', sans-serif;
