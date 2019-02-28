@@ -586,11 +586,17 @@ p {
   padding: 15px 54px;
   border-radius: 50px;
   background-color: #fdba61;
+  -webkit-transition: background-color 400ms ease;
+  transition: background-color 400ms ease;
   color: #333e48;
   font-weight: 600;
   letter-spacing: 3px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.main-button:hover {
+  background-color: #f6916b;
 }
 
 .main-button.is--small {
