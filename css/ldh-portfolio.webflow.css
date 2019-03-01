@@ -1291,6 +1291,10 @@ p {
   margin-bottom: 40px;
 }
 
+.recaptcha-2 {
+  margin-bottom: 40px;
+}
+
 @media (max-width: 991px) {
   h2 {
     width: 100%;
